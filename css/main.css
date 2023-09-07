@@ -1,1 +1,24 @@
 /* Place CSS styles here */
+body {
+  color: red;
+  background-color: aqua;
+}
+
+img{
+  width: 500px;
+}
+
+h2 {
+  color:#fada97;
+}
+
+p {
+  color: azure;
+}
+
+.pumpkin-ink {
+  font-size: 20px;
+  font-style: oblique;
+  text-align: center;
+  color: blueviolet;
+}
